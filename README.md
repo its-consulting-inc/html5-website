@@ -4,6 +4,6 @@ Here is some new info about this app!
 
 Updates again
 
-## Purpose
+## Repository Purpose
 
 Creating a crazy conflict
