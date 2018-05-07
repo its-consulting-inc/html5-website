@@ -6,4 +6,4 @@ Updates again
 
 ## Repository Purpose
 
-Creating a crazy conflict
+Here is some more important information about our amazing application that will blow your mind. 
